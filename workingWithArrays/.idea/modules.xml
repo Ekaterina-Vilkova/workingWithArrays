@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmailList/EmailList.iml" filepath="$PROJECT_DIR$/EmailList/EmailList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hospital/Hospital.iml" filepath="$PROJECT_DIR$/Hospital/Hospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/ReverseArray/ReverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodoList/TodoList.iml" filepath="$PROJECT_DIR$/TodoList/TodoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoDimensionalArray/TwoDimensionalArray.iml" filepath="$PROJECT_DIR$/TwoDimensionalArray/TwoDimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingWithArrays.iml" filepath="$PROJECT_DIR$/workingWithArrays.iml" />
+    </modules>
+  </component>
+</project>
