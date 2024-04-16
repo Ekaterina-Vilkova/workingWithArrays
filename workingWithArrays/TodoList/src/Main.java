@@ -44,7 +44,7 @@ public class Main {
                 int transmitted = Integer.parseInt(word[1]);
                 int all = todoList2.list.size();
                 if (transmitted > all) {
-                    System.out.println("Дело с таким номером не существует"); // срабатывает через раз, в чем дело?
+                    System.out.println("Дело с таким номером не существует");
                 } else {
                     String previousDeal = todoList2.list.get(Integer.valueOf(word[1]));
                     todoList2.deleteDeal(Integer.valueOf(word[1]));
